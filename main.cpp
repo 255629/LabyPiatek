@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 
 int Policz(int a, int b) {
-    return a+b;
+    return a*b; // zmiana na mnozenie
 }
 
 int main() {
